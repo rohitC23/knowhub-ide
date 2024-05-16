@@ -1,0 +1,53 @@
+/* Styling for stTextInput */
+div.stTextInput>div>div>textarea {
+    color: #333;
+    font-family:  "Noto Sans Variable", sans-serif;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+    background-color: #f8f8f8;
+    padding: 10px;
+}
+
+/* Styling for text area st-emotion-cache-1om1ktf ezh4s2r0 */
+div.st-emotion-cache-1om1ktf.ezh4s2r0 {
+    padding: 2px;
+    background-color: #AED6F1;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+}
+
+/* Styling for button */
+.st-emotion-cache-7ym5gk {
+    background-color: #1976D2;
+    border: 1px solid #ccc;
+    color: white;
+}
+
+.st-emotion-cache-10trblm {
+    font-family: "Noto Sans Variable", sans-serif;
+}
+
+#knowhub-python-ide {
+    text-align: center;
+    color: #1976D2;
+}
+
+.st-emotion-cache-1r4qj8v {
+    background: white;
+}
+
+div.st-emotion-cache-1jmvea6 {
+    font-family: "Noto Sans Variable", sans-serif;
+}
+
+.menu .container-xxl[data-v-5af006b8] {
+    background-color: white;
+    border-radius: .5rem;
+}
+
+.st-emotion-cache-1jicfl2{
+    max-width: 1440px;
+    margin: 0 auto;
+}
